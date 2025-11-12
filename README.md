@@ -1,5 +1,5 @@
-# Dream-IF
+# Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion
 
-The implementation of Dream-IF.
+This is the official implementation of Conditional-Controllable-Image-Fusion(AAAI 2026)
 
 Comming soon
