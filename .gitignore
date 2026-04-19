@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs
+save_dir/
+checkpoints/
+output/
+results/
+*.pth
+*.pt
+
+# Logs
+logs
+*.log
+
+# Data
+data/*.txt
+*.npy
